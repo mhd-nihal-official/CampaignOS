@@ -1,0 +1,6 @@
+{
+  "name": "CampaignOS",
+  "description": "AI-powered campaign planning and execution workspace for marketing agencies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
